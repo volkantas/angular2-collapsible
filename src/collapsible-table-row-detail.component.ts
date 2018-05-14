@@ -9,7 +9,7 @@ import { CollapsibleBodyComponent } from './collapsible-body.component';
 
 import { CollapsibleService } from './collapsible.service';
 
-import { Subject } from 'rxjs/Rx';
+import { Subject } from 'rxjs';
 
 @Component({
     selector: 'collapsible-table-row-detail',
